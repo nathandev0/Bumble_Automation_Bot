@@ -1,5 +1,5 @@
-Badoo Automation Bot (iOS, Android)
-Appium-based automated Badoo account creation, profile swiper and bio modification on real devices.
+⬆Bumble Automation Bot (iOS, Android)
+Appium-based automated Bumble account creation, profile swiper and bio modification on real devices.
 
 Main functionality:
 1) Device & Automation management system
