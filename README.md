@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/nathandev0/Bumble_Automation_Bot/blob/4c125b05a9b79824b95043afa08bbe7523451745/Demo.gif" alt="video working"/>
+<img src="https://github.com/nathandev0/Bumble_Automation_Bot/blob/22113e4ef79806625a4c53b852e82063d60220d7/src/demo.gif" alt="video working"/>
 </p>
 <h1 align="center"> ⬆️ Bumble Automation Bot (iOS, Android) </h1>
 <p align="center"><strong>Appium</strong>-based automated <strong>Bumble account creation</strong> and <strong>swiping on real devices</strong>.</p>
